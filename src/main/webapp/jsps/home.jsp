@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <marquee> <h1> WELCOME TO KK DEVOPS </h1> </marquee>
+    <marquee> <h1> WELCOME TO KK DEVOPS NEW BATCH ON 19-APRIL 6:45 AM BATCH </h1> </marquee>
     <h3>Training | Development | Consulting</h3>
 </header>
 
