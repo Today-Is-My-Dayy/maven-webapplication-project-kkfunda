@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hello to KK FUNDA DEVOPS AWS Portal 🚀</h1>
+    <h1>🚀 do not take leaves  🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
