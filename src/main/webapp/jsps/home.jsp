@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 jacoco 🚀</h1>
+    <h1>🚀 jacoco removed 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
